@@ -1,10 +1,3 @@
-//
-//  Save_Bot_princess.cpp
-//  
-//
-//  Created by ashokraja on 04/03/1942 Saka.
-//
-
 #include "Save_Bot_princess.hpp"
 #include <iostream>
 #include <vector>
