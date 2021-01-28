@@ -1,2 +1,3 @@
 # Coding-samples
-This repo contains some of my good coding samples
+Competitive programming codes and other projects.
+
