@@ -1,7 +1,5 @@
 #include<iostream>
 
-//Credits: CK
-
 using namespace std;
 
 bool solver(int sudo[9][9]);
